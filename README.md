@@ -1,5 +1,5 @@
 # Enterprise-Financial-Performance-Tracker
-.
+
 This project provides a granular look at corporate performance, benchmarking current-year results against historical data and budget targets.
 
 Calculation Logic: I built a comprehensive calculation engine to derive monthly variances (Actual vs Plan), year-on-year growth, and debtor ageing buckets (0–90+ days).
