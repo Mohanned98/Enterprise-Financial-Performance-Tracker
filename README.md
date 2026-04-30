@@ -1,15 +1,18 @@
 # Enterprise-Financial-Performance-Tracker
 
-This project provides a granular look at corporate performance, benchmarking current-year results against historical data and budget targets.
+Project Overview
+This repository contains a comprehensive financial monitoring tool designed to track corporate KPIs, debtor aging, and human resources metrics. The focus was on transforming a static, pre-cleaned dataset into a dynamic executive overview.
 
-Calculation Logic: I built a comprehensive calculation engine to derive monthly variances (Actual vs Plan), year-on-year growth, and debtor ageing buckets (0–90+ days).
+My Contribution
+My work on this project focused entirely on the data modelling and User Interface:
 
-Visualisation & Design: Developed an interactive dashboard featuring:
+Formula Modelling: I developed the calculation layer to handle complex variances (Actual vs Plan), year-on-year growth, and debtor bucket categorisation (0–90+ days).
 
-Financial Performance: Dynamic tracking of Revenue, Expenditure, and EBIT.
+Interface Design: I constructed the final dashboard, ensuring a clean "at-a-glance" experience for monitoring EBIT, staff turnover, and customer satisfaction.
 
-HR Metrics: Visual representations of staff turnover and recruitment trends.
+Key Features
+Debtor Management: A dedicated analysis of accounts receivable to identify cash-flow risks.
 
-Satisfaction Tracking: Correlation of customer sentiment against corporate KPIs.
+Operational KPIs: Tracking marketing campaign success and HR recruitment/termination trends.
 
-Key Technical Contributions: Multi-criteria variance analysis, nested logical modelling, and automated KPI status indicators.
+Historical Benchmarking: Comparing current monthly performance against years of historical revenue data.
